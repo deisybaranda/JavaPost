@@ -1,0 +1,12 @@
+package py.edu.uca.javase.clase1;
+
+public class Clase1EJ1 {
+
+	public static void main(String[] args) {
+		int i = 9;
+		System.out.println("El valor de i es:" + i);
+			
+
+	}
+
+}
